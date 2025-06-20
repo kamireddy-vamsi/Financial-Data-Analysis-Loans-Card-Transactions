@@ -32,7 +32,6 @@ To perform end-to-end analysis of bank loan performance and card transactions to
 
 ## 🧠 Key Insights
 
-- Customers with loans > ₹10 lakhs had higher default risk
 - Significant spike in credit card usage during festival months
 - Repeat defaulters had poor repayment history in previous loans
 - Recommended early warning system based on spending behavior and credit utilization
